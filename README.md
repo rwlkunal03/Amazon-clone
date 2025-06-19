@@ -1,1 +1,1 @@
-# Amazon-clone
+Amazon Clone Project built using html css
